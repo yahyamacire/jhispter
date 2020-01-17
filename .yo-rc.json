@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.avaqtic.demo",
+      "nativeLanguage": "fi"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "com.avaqtic.demo",
+    "packageFolder": "com/avaqtic/demo",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YzU2ZWEwMzVhMjg4NWIwNmRkNmE3YTQxOGIyNDBiMDhmM2RkMzBmNjJkYzlkNWRkZTNlMmMzY2YyYTJiOTFjZDE4ZGMyYTY4NTUwM2IyZTM4MmQxZjU4MzZlZGRkMjgwNDYyMzk5Y2Q0OWQxNjE1NGQ4NDNkNjZhOTQ1ZjUxOTQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1579249221876,
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fi",
+    "languages": ["fi", "ar-ly"],
+    "blueprints": []
+  }
+}
